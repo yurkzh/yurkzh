@@ -1,6 +1,6 @@
 # Yurkzh
 
-I am a cybersecurity & software development student. I'm also a college student majoring in Cybersecurity.  
+I am a 17 year old cybersecurity & software development student. I'm also a college student majoring in Cybersecurity.  
 
 - 🌍 I'm based in California  
 - 📚 I'm studying Cybersecurity in college  
